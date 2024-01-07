@@ -11,7 +11,7 @@ In this, I have developed the docker image for my website and pushed it on the d
     docker run -it -d -p 8080:80 --name=shantayya-website shantayyaswami/shantayyawebsite:latest
     
 # You should see output like below
-![home page](https://github.com/DhruvinSoni30/Images/blob/main/website.png?raw=true)
+![home page](https://github.com/ShantayyaSwami-Website/Images/blob/main/output.png?raw=true)
 
 
 
